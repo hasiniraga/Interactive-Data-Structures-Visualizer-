@@ -2,8 +2,7 @@
 
 
 # Real time Data structures Visualizer
-Visualization tool (you can see where the data is going) for data structures such as Binary Tree, Binary Heap, Linked List, Stack, and others. You can visualize the main operations of each data structures, and how these operations modify the data structures. The animations were made with CSS and Scalable Vector Graphics ( svg tag on HTML).<br/>
-You can use it at https://joaogabrielferr.github.io/data-structures-visualizer/
+Visualization tool (you can see where the data is going) for data structures such as Binary Tree, Binary Heap, Linked List, Stack, and others. You can visualize the main operations of each data structures, and how these operations modify the data structures. 
   
 # Binary Search Tree
 
